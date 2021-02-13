@@ -4,7 +4,7 @@
 
 ------------
 
-❗*You have to have [**Java**](https://www.java.com/ru/download/help/download_options_ru.html)&nbsp;installed on your machine to run this project.*
+❗*You have to have [**Java**](http://www.java.com/)&nbsp;installed on your machine to run this project.*
 
 ------------
 
