@@ -9,7 +9,7 @@
 ------------
 
 The project was made as a part of the [hyperskill](https://hyperskill.org/projects/48) training course. <br/><br/>
-**Classic Tic-Tac-Toe**.  <br/>
+**Console Tic-Tac-Toe**.  <br/>
 The ```X``` player goes first, ```O``` - the second. <br/>
 Enter the coordinates of the cell separated by a space according to the table below.
 
